@@ -1,0 +1,82 @@
+button {
+  background-color: limegreen;
+  border-radius: 0px;
+  padding-left: 20px;
+  padding-right: 20px;
+  border: none;
+}
+.wrapper {
+  background-color: black;
+}
+#hero-div {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 300px;
+  padding-bottom: 250px;
+}
+#about {
+  background-color: rgb(253, 247, 236);
+  padding-top: 200px;
+  padding-bottom: 200px;
+  padding-left: 40px;
+}
+#stats {
+  background-color: rgb(30, 30, 150);
+  color: white;
+  text-align: center;
+  padding-top: 200px;
+  padding-bottom: 200px;
+}
+#thanks {
+  background-color: rgb(230, 234, 240);
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 100px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+#prevention {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+#featured {
+  background-color: rgb(253, 247, 236);
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+#footer {
+  background-color: rgb(12, 125, 177);
+  text-align: center;
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+#hero-btn-1 {
+  margin-right: 20px;
+}
+hr {
+  border-top: 6px solid lime;
+  margin-left: auto;
+  margin: -right;
+}
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+.title {
+  font-size: 60px;
+}
+.subtitle {
+  font-size: 18px;
+}
+#partner-btn {
+  padding-left: 60px;
+  padding-right: 60px;
+}
+#lyme-101-btn {
+  padding-left: 260px;
+  padding-right: 260px;
+}
